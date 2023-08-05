@@ -1,0 +1,6 @@
+2023-08-06 01:07:16.034164 - Initialized conversion of CBT1042
+2023-08-06 01:07:16.066758 - Received CBT.V505.FILE1042.PDS from FILE1042.XMI 
+2023-08-06 01:07:16.069120 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1042.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:07:16.070139 - Found @@README.txt (text/plain) in CBT.V505.FILE1042.PDS, moved to PDS/@@README
+2023-08-06 01:07:16.071124 - Found @FIL1042.txt (text/plain) in CBT.V505.FILE1042.PDS, moved to PDS/@FIL1042
+2023-08-06 01:07:16.072072 - Found DEIMBED.txt (text/plain) in CBT.V505.FILE1042.PDS, moved to PDS/DEIMBED
